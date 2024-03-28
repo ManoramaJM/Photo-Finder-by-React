@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+.div{
+    display: flex;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.inputtext{
+    flex: 1;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: aqua;
+  padding-right: 50px;
+}
+.buttonstyle{
+    flex: 1;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 9px;
+    gap: 200px;
+    color: rgb(201, 219, 234);
+    background-color: blue;
+ 
+}
